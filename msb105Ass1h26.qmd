@@ -24,6 +24,8 @@ abstract: "Et kort sammendrag, en til to avsnitt."
 
 Hva handler artikkelen om? Hva blir diskutert? Hvorfor er dette viktig?
 
+Artikkelen "Robust and Reliable Science" tar for seg hvorfor reproduserbarhet er avgjørende for tillit til vitenskapelige resultater, og hvordan verktøy og arbeidsmåter i dataanalyse kan bidra til å gjøre forskning etterprøvbar.
+
 ## Litteraturgjennomgang
 
 Smarte synspunkt om emnet fra andre.
@@ -35,6 +37,10 @@ Benytt begge siteringsmåter, dvs. «in-line» og på slutten av setningen. Prø
 Example:
 
 @gentleman2003 hevder at bla bla bla. Andre mener imidlertid bla bla [@goodman2016b; @ioannidis2005b].
+
+Begrepet reproduserbarhet ble laget for å beskrive et system der leseren kan følge hele prosessen, fra rådata og kode til de endelige figurene og tabellene i en artikkel [@mcnutt2014].
+
+NSF (National Science Foundation) definerer reproduserbarhet som at en annen forsker
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
