@@ -22,7 +22,11 @@ abstract: "Et kort sammendrag, en til to avsnitt."
 
 ## Introduksjon
 
-Bare en liten test.
+
+Reproduserbarhet er selve grunnmuren i vitenskalpig forskning. Et resultat skal kunne etterprøves av andre forskere om samme metode og data er brukt [@mcnutt2014]. De siste årene har flere fagfelt alllikevel opplevd "reproducibility crisis", en erkjennelse av at en overraskende stor andel publiserte resultater ikke lar seg gjennskape [@young2008].
+
+Denne teksten tar utgangspunktet i foredaget "Robus and Reliable Science" for å drøfte hvorfor reproduserbarhetskrisen har spesielt rammet økonomifaget, hvilke mekanismer som ligger bak og fleksibel dataanalyse. Samtidig hvordan nye verktøy for reproduserbar forskning kan bidra til å styrke tilliten til økonomisk forskning. Temaet er særlig relevant siden forskning i økonomifaget ofte danner grunnlag for både politiske og økonomiske beslutninger.
+
 
 Hva handler artikkelen om? Hva blir diskutert? Hvorfor er dette viktig?
 
