@@ -16,7 +16,7 @@ format:
 # krever at tinytex er installert
 #  pdf:
 #    papersize: a4
-bibliography: reproducibility.bib
+bibliography: [reproducibility.bib, Ass1-egne-kilder.bib]
 abstract: "Et kort sammendrag, en til to avsnitt."
 ---
 
