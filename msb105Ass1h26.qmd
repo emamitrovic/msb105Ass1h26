@@ -17,7 +17,7 @@ format:
 #  pdf:
 #    papersize: a4
 bibliography: [reproducibility.bib, Ass1-egne-kilder.bib]
-abstract: "Et kort sammendrag, en til to avsnitt."
+abstract: "Denne oppgaven baserer seg på Robust and Reliable Science for å drøfte hvorfor reproduserbarhetskrisen har påvirker økonomifaget i så stor grad. Gjennom littereturgjennomgangen belyses sentrale begreper som bidrar til krisen. Konkrete eksempler som JMCB-prosjektet, illustrerer omfanget av problemet. Teksten diskuterer også hvordan verktøy for reproduserbar forskning kan bidra til å styrke tilliten til økonomisk forskning."
 ---
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
