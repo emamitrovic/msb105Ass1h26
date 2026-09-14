@@ -56,6 +56,8 @@ Et løsning på reproduserbarhetsproblemet har vært å kombinere tekst og kode 
 
 Litteaturgjennomgangen viser at reproduserbarhetskrisen ikke bare er et problem for noen enkelte fagfelt, men et gjennomgående trekk ved moderne forskning, der økonomifaget virker spesielt utsatt. Mekanismen bak krisen, som publikasjonsskjevhet og fleksibel dataanalyse, forsterker hverandre. Om forskere vett at signifikante funn lettere blir publiserte, er det lettere for de å lete etter mønstre i dataene som i praksis kan være tilfeldige. Dette er bekymringsfullt i økonomifaget spesielt, siden forskningsresultater danner grunnlag for konkrete politiske og økonomiske beslutninger.
 
+Samtidig peker litteraturen på konkrete løsninger. Erfaringene fra American Economic Associations data-arkivet viser at gode intensjoner alane ikke er nok til at beregnbare dokumenter og versjonskontroll representerer et lovende skritt frem [@american]. Dette er nettopp fordi de gjør reproduserbarhet til en integrert del av selve arbeidsflyten, ikke noe som må gjøres i etterkant. Som tidligere nevnt kan forskning bidra til store politiske og økonomiske beslutninger, så det kan være avgjørende å ta i bruk slike verktøy for å styrke tillitten til egne resultater.
+
 ## Referanser
 
 ::: {#refs}
