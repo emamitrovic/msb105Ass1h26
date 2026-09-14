@@ -52,6 +52,10 @@ Et løsning på reproduserbarhetsproblemet har vært å kombinere tekst og kode 
 
 @xie2014 bygger videre på denne ideen og har senere blitt en sentral komponent i både R Markdown og Quatro - rammeverket som denne teksten selv er skrevet i. I tillegg til beregnbare dokumenter, er det vert å nevne versjonskontrollsystemet Git, som et viktig verktøy for å øke åpenhet og reproduserbarhet i forskning, siden det er fullt mulig å spore tilbake til alle endringer som gjøres underveis i prosjektet [@ram2013]. @markowetz2015 oppsumerer flere av disse fordelene, og argumenterer for at reproduserbar arbeidsflyt ikke bare gagner andre forskere, men også forskeren selv. Blant annet ved å gjøre det enklere å gjenoppta eget arbeid etter en pause.
 
+Diskusjon
+
+Litteaturgjennomgangen viser at reproduserbarhetskrisen ikke bare er et problem for noen enkelte fagfelt, men et gjennomgående trekk ved moderne forskning, der økonomifaget virker spesielt utsatt. Mekanismen bak krisen, som publikasjonsskjevhet og fleksibel dataanalyse, forsterker hverandre. Om forskere vett at signifikante funn lettere blir publiserte, er det lettere for de å lete etter mønstre i dataene som i praksis kan være tilfeldige. Dette er bekymringsfullt i økonomifaget spesielt, siden forskningsresultater danner grunnlag for konkrete politiske og økonomiske beslutninger.
+
 ## Konklusjon
 
 Noen kloke ord.
