@@ -128,6 +128,8 @@ div.csl-indent {
 <p>Nyere forskning tyder på at denne utfordringen fortsatt er aktuell. <span class="citation" data-cites="page2021">Page et al. (<a href="#ref-page2021" role="doc-biblioref">2021</a>)</span> gjennomgår hvordan replikasjonskrisen har påvirket eksperimentell økonomi, og diskuterer hvilke nye forskningspraksiser som har vokst frem som et svar på dette. <span class="citation" data-cites="ozier2021">Ozier (<a href="#ref-ozier2021" role="doc-biblioref">2021</a>)</span> illustrerer problemet gjennom det mye omtalte “deworming” - eksemplet, og viser hvor komplisert det kan være å definere hva det egentlig vil si å replisere en studie i praksis.</p>
 <p>Årsaken til denne krisen kan spoles tilbake til hvordan forskningsresultater blir publisert. <span class="citation" data-cites="rosenthal1979">Rosenthal (<a href="#ref-rosenthal1979" role="doc-biblioref">1979</a>)</span> beskrev i 1979 det som ofte kalles “the file drawer problem”. Denne beskriver at studier som ikke finner noen signifikant effekt, kan ofte bli lagt i skuffen fremfor publisert, mens studier med positive funn i mye større grad når frem til tidsskriftene. <span class="citation" data-cites="iyengar1988">Iyengar &amp; Greenhouse (<a href="#ref-iyengar1988" role="doc-biblioref">1988</a>)</span> bygger videre på dette ved å utvikle ulike statistiske modeller for å rette nettopp denne typen skjevhet i meta-analyser.</p>
 <p><span class="citation" data-cites="simmons2011a">Simmons et al. (<a href="#ref-simmons2011a" role="doc-biblioref">2011</a>)</span> viste gjennom enn bevisst studie at forskere som har stor fleksibilitet i hvordan de analyserer data, nesten alltid kan finne et signifikant resultat, selv når det ikke finnes noen reell effekt. Dette er en praksis som i dag ofte omtales som “p-hacking”. <span class="citation" data-cites="ioannidis2005">Ioannidis (<a href="#ref-ioannidis2005" role="doc-biblioref">2005</a>)</span> gikk enda lenger, og hevdet i sin mye siterte artikkel at de fleste publiserte forskningsfunn faktisk er falske.</p>
+<p>Et løsning på reproduserbarhetsproblemet har vært å kombinere tekst og kode i samme dokument, en ide som stammer fra konseptet “literate programing”. Her vektlegges koder og tekst likt, slik at leseren kan følge hele resonnementet fra data til konklusjon <span class="citation" data-cites="knuth1986">(<a href="#ref-knuth1986" role="doc-biblioref">Knuth, 1986</a>)</span>. <span class="citation" data-cites="peng2011">Peng (<a href="#ref-peng2011" role="doc-biblioref">2011</a>)</span> argumenterer for at denne typen dokumenter er avgjørende for reproduserbar forskning innen dataintensive fag, siden de gjør det mulig å kjøre hele analysen på nytt med ett tastetrykk. <span class="citation" data-cites="gentleman2007">Gentleman &amp; Temple Lang (<a href="#ref-gentleman2007" role="doc-biblioref">2007</a>)</span> var tidlig ute med å beskrive hvordan slike dokumenter kan integreres direkte i statistiske analyser.</p>
+<p><span class="citation" data-cites="xie2014">Xie (<a href="#ref-xie2014" role="doc-biblioref">2014</a>)</span> bygger videre på denne ideen og har senere blitt en sentral komponent i både R Markdown og Quatro - rammeverket som denne teksten selv er skrevet i. I tillegg til beregnbare dokumenter, er det vert å nevne versjonskontrollsystemet Git, som et viktig verktøy for å øke åpenhet og reproduserbarhet i forskning, siden det er fullt mulig å spore tilbake til alle endringer som gjøres underveis i prosjektet <span class="citation" data-cites="ram2013">(<a href="#ref-ram2013" role="doc-biblioref">Ram, 2013</a>)</span>. <span class="citation" data-cites="markowetz2015">Markowetz (<a href="#ref-markowetz2015" role="doc-biblioref">2015</a>)</span> oppsumerer flere av disse fordelene, og argumenterer for at reproduserbar arbeidsflyt ikke bare gagner andre forskere, men også forskeren selv. Blant annet ved å gjøre det enklere å gjenoppta eget arbeid etter en pause.</p>
 </section>
 <section id="konklusjon" class="level2">
 <h2 class="anchored" data-anchor-id="konklusjon">Konklusjon</h2>
@@ -139,6 +141,9 @@ div.csl-indent {
 <div id="ref-dewald1986" class="csl-entry" role="listitem">
 Dewald, W. G., Thursby, J. G., &amp; Anderson, R. G. (1986). Replication in empirical economics: The journal of money, credit and banking project. <em>The American Economic Review</em>, <em>76</em>(4), 587603.
 </div>
+<div id="ref-gentleman2007" class="csl-entry" role="listitem">
+Gentleman, R., &amp; Temple Lang, D. (2007). Statistical analyses and reproducible research. <em>Journal of Computational and Graphical Statistics</em>, <em>16</em>(1), 123.
+</div>
 <div id="ref-goodman2016" class="csl-entry" role="listitem">
 Goodman, S. N., Fanelli, D., &amp; Ioannidis, J. P. A. (2016). What does research reproducibility mean? <em>Science Translational Medicine</em>, <em>8</em>(341), 341ps12–341ps12.
 </div>
@@ -147,6 +152,12 @@ Ioannidis, J. P. A. (2005). Why most published research findings are false. <em>
 </div>
 <div id="ref-iyengar1988" class="csl-entry" role="listitem">
 Iyengar, S., &amp; Greenhouse, J. B. (1988). Selection models and the file drawer problem. <em>Statistical Science</em>, <em>3</em>(1), 109117.
+</div>
+<div id="ref-knuth1986" class="csl-entry" role="listitem">
+Knuth, D. E. (1986). <em>The TeXbook</em>. Addison-Wesley.
+</div>
+<div id="ref-markowetz2015" class="csl-entry" role="listitem">
+Markowetz, F. (2015). Five selfish reasons to work reproducibly. <em>Genome Biology</em>, <em>16</em>(1), 274.
 </div>
 <div id="ref-mccullough2008" class="csl-entry" role="listitem">
 McCullough, B. D., McGeary, K. A., &amp; Harrison, T. D. (2008). Do economics journal archives promote replicable research? <em>Canadian Journal of Economics/Revue Canadienne d’économique</em>, <em>41</em>(4), 14061420.
@@ -160,11 +171,20 @@ Ozier, O. (2021). Replication redux: The reproducibility crisis and the case of 
 <div id="ref-page2021" class="csl-entry" role="listitem">
 Page, L., Noussair, C. N., &amp; Slonim, R. (2021). The replication crisis, the rise of new research practices and what it means for experimental economics. <em>Journal of the Economic Science Association</em>, <em>7</em>(2), 210–225. <a href="https://doi.org/10.1007/s40881-021-00107-7">https://doi.org/10.1007/s40881-021-00107-7</a>
 </div>
+<div id="ref-peng2011" class="csl-entry" role="listitem">
+Peng, R. D. (2011). <a href="https://www.ncbi.nlm.nih.gov/pubmed/22144613">Reproducible <span>Research</span> in <span>Computational Science</span></a>. <em>Science</em>, <em>334</em>(6060), 1226–1227.
+</div>
+<div id="ref-ram2013" class="csl-entry" role="listitem">
+Ram, K. (2013). Git can facilitate greater reproducibility and increased transparency in science. <em>Source Code for Biology and Medicine</em>, <em>8</em>(1), 7.
+</div>
 <div id="ref-rosenthal1979" class="csl-entry" role="listitem">
 Rosenthal, R. (1979). <em>The file drawer problem and tolerance for null results.</em>
 </div>
 <div id="ref-simmons2011a" class="csl-entry" role="listitem">
 Simmons, J. P., Nelson, L. D., &amp; Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. <em>Psychological Science</em>, <em>22</em>(11), 13591366.
+</div>
+<div id="ref-xie2014" class="csl-entry" role="listitem">
+Xie, Y. (2014). Knitr: <span>A</span> comprehensive tool for reproducible research in <span>R</span>. In V. Stodden, F. Leisch, &amp; R. D. Peng (Eds.), <em>Implementing reproducible computational research</em>. <span>Chapman and Hall/CRC</span>.
 </div>
 <div id="ref-young2008" class="csl-entry" role="listitem">
 Young, N. S., Ioannidis, J. P. A., &amp; Al-Ubaydli, O. (2008). Why <span>Current Publication Practices May Distort Science</span>. <em>PLoS Medicine</em>, <em>5</em>(10), e201.

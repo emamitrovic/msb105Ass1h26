@@ -48,6 +48,10 @@ Nyere forskning tyder på at denne utfordringen fortsatt er aktuell. @page2021 g
 
 @simmons2011a viste gjennom enn bevisst studie at forskere som har stor fleksibilitet i hvordan de analyserer data, nesten alltid kan finne et signifikant resultat, selv når det ikke finnes noen reell effekt. Dette er en praksis som i dag ofte omtales som “p-hacking”. @ioannidis2005 gikk enda lenger, og hevdet i sin mye siterte artikkel at de fleste publiserte forskningsfunn faktisk er falske.
 
+Et løsning på reproduserbarhetsproblemet har vært å kombinere tekst og kode i samme dokument, en ide som stammer fra konseptet "literate programing". Her vektlegges koder og tekst likt, slik at leseren kan følge hele resonnementet fra data til konklusjon [@knuth1986]. @peng2011 argumenterer for at denne typen dokumenter er avgjørende for reproduserbar forskning innen dataintensive fag, siden de gjør det mulig å kjøre hele analysen på nytt med ett tastetrykk. @gentleman2007 var tidlig ute med å beskrive hvordan slike dokumenter kan integreres direkte i statistiske analyser.
+
+@xie2014 bygger videre på denne ideen og har senere blitt en sentral komponent i både R Markdown og Quatro - rammeverket som denne teksten selv er skrevet i. I tillegg til beregnbare dokumenter, er det vert å nevne versjonskontrollsystemet Git, som et viktig verktøy for å øke åpenhet og reproduserbarhet i forskning, siden det er fullt mulig å spore tilbake til alle endringer som gjøres underveis i prosjektet [@ram2013]. @markowetz2015 oppsumerer flere av disse fordelene, og argumenterer for at reproduserbar arbeidsflyt ikke bare gagner andre forskere, men også forskeren selv. Blant annet ved å gjøre det enklere å gjenoppta eget arbeid etter en pause.
+
 ## Konklusjon
 
 Noen kloke ord.
