@@ -28,19 +28,15 @@ Denne teksten tar utgangspunktet i foredaget "Robus and Reliable Science" for å
 
 ## Litteraturgjennomgang
 
-Smarte synspunkt om emnet fra andre.
-
-Bruk minst 20 siteringer. Minst 5 må være nye relevante artikler om emnet som du har funnet selv.
-
-Benytt begge siteringsmåter, dvs. «in-line» og på slutten av setningen. Prøv å variere siteringsteknikk for å få flyt i språket.
-
-Example:
-
-@gentleman2003 hevder at bla bla bla. Andre mener imidlertid bla bla [@goodman2016b; @ioannidis2005b].
-
 Selv om begrep reproduserberhet er sentralt i vitenskapelig forskning, er det ikke alltid like lett å forstå hva det egentlig betyr. @goodman2016 peker på at ord som reproduserberhet, replikerberhet og genereliserbarhet ofte brukes litt om hverandre. Det kan skape forvirring om hva som faktisk kreves for at man skal kunne stole på et forskningsresultat.
 
 De skiller derfor mellom to typer: metodereproduserbarhet, som handler om at man gir nok informasjon om data og fremgangsmåte til at andre skal kunne gjennta studiet og resultatreproduserberhet som handler om at en ny uavhengig studie kommer frem til det samme resultatet [@goodman2016]. Et viktig poeng å legge merke til er at reproduserberhet alene ikke beviser at resultatet er sant. Det viser bare at data og analyse stemmer overense med det som blir rapportert [@goodman2016].
+
+Reproduserbarhetsproblemer har vist seg å påvirke økonomifaget spesielt hardt. Allerede i 1982 prøvde The Journal of Money, Credit and Banking Project å etterprøvde over 70 empiriske studier innen økonomi, men klarte kun å fullt replisere to av dem. Mange studier lot seg ikke gjenkape på grunn av manglende data, feil i dataprogrammene eller helt fraværende dokumentasjon [@mcnutt2014].
+
+Som et forsøk på løsning opprettet flere tidsskrifter egne data- og kodearkiver, blant annet American Economic Association. @mccullough2008 undersøkte om denne løsningen faktisk fungerte, og kom frem til at den i stor grad ikke gjordet det. Mange forfattere bidro rett og slett ikke med data til arkivene.
+
+Nyere forskning tyder på at denne utfordringen fortsatt er aktuell. @pageReplicationCrisisRise2021 gjennomgår hvordan replikasjonskrisen har påvirket eksperimentell økonomi, og diskuterer hvilke nyr forskningspraksiser som har vokst frem som et svar på dette. @ozier2021 illustrerer problemet gjennom det mye omtalte "deworming" - eksemplet, og viser hvor komplisert det kan være å definere hva det egentlig vil si å replisere en studie i praksis.
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
