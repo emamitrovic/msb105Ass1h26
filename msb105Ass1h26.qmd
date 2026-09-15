@@ -22,9 +22,9 @@ abstract: "Denne oppgaven baserer seg på Robust and Reliable Science for å dr�
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
-- Burde replikerbarhet være et krav eller er det å be om for mye?
-- Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
-- Hvilke problem gjenstår og hvordan kan disse løses?
+@dewald1986 viser at selv med krav om åpne data, klarer forskere fortsatt ikke å reprodusere hverandres resultater fullt ut. Det kan fortelle oss at strengt krav kan være urealistisk i praksis. @markowetz2015 argumenterer likevel for at selv delvis reproduserbarhet gir store fordeler. Det kan derfor være lurt å kreve metodereproduserbarhet, data og koder som er tilgjengelige, uten å kreve identiske resultater.
+
+Quarto dokumenter kan bidra til nettopp dette. Med å kombinere tekst og koder blir hele prosessen synlig for andre. Ved bruk av Git får man i tillegg full sporbarhet av endringer undervies. Likevell gjenstår utfordringer. Mange forskere bidrar ikke med data selv når det er påkrevd [@mccullough2008]. Tekniske løsninger er ikke alltid nok, forskere må også ha en reell grunn til å prioritere åpenhet i praksis.
 
 ## **Introduksjon**
 
@@ -44,7 +44,7 @@ Som et forsøk på løsning opprettet flere tidsskrifter egne data- og kodearkiv
 
 Nyere forskning tyder på at denne utfordringen fortsatt er aktuell. @pageReplicationCrisisRise2021 gjennomgår hvordan replikasjonskrisen har påvirket eksperimentell økonomi, og diskuterer hvilke nye forskningspraksiser som har vokst frem som et svar på dette. @ozierReplicationReduxReproducibility2021 illustrerer problemet gjennom det mye omtalte “deworming” - eksemplet, og viser hvor komplisert det kan være å definere hva det egentlig vil si å replisere en studie i praksis.
 
-En rapport fra den amerikanske sentralbanken fant at økonomer kun klarte å replisere rundt en tredjedel av 67 empiriske artikler fra 13 anerkjente tidsskrifter [@ortmannReplicationCrisisHas2015]. Dette understreker at problemet fortsatt er aktuelt. @herbertReproduceValidateComprehensive2024 gjennomførte en av de mest omfattende reproduksjonsstudier i økonomifaget til nå, der de forsøkte å reprodusere over 250 artikler som krever åpne data. Kun 44,7% av artiklene lot seg fullt ut reprodusere. @ferraroFeatureReplicabilityCrisis2020 finner like utfordringer i miljø- og ressursøkonomi, og peker på at forskeres og lesernes tillit til empiriske funn ofte bygger på antakelser om troverdighet som ikke alltid er testet.
+En rapport fra den amerikanske sentralbanken fant at økonomer kun klarte å replisere rundt en tredjedel av 67 empiriske artikler fra 13 anerkjente tidsskrifter [@ortmannReplicationCrisisHas2015]. Dette understreker at problemet fortsatt er aktuelt. @herbertReproduceValidateComprehensive2024 gjennomførte en av de mest omfattende reproduksjonsstudier i økonomifaget til nå, der de forsøkte å reprodusere 152 artikler som krever åpne data. Kun 68 av artiklene lot seg fullt ut reprodusere. @ferraroFeatureReplicabilityCrisis2020 finner like utfordringer i miljø- og ressursøkonomi, og peker på at forskeres og lesernes tillit til empiriske funn ofte bygger på antakelser om troverdighet som ikke alltid er testet.
 
 Årsaken til denne krisen kan spoles tilbake til hvordan forskningsresultater blir publisert. @rosenthal1979 beskrev i 1979 det som ofte kalles “the file drawer problem”. Denne beskriver at studier som ikke finner noen signifikant effekt, kan ofte bli lagt i skuffen fremfor publisert, mens studier med positive funn i mye større grad når frem til tidsskriftene. @iyengar1988 bygger videre på dette ved å utvikle ulike statistiske modeller for å rette nettopp denne typen skjevhet i meta-analyser.
 
