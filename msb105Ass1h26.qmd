@@ -67,8 +67,7 @@ Samtidig peker litteraturen på konkrete løsninger. Erfaringene fra American Ec
 
 ## Appendiks A
 
-- Versjon nummer og referanse til R pakken brukt i dokumentet
-- R versjon brukt, med referanse
+- Analysen ble utført i R (versjon 4.6.1) [@rcoreteam2026]
 
 ## Appendiks B
 
