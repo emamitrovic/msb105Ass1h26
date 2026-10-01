@@ -1,0 +1,13 @@
+---
+title: "Kommentarer"
+format: html
+editor: source
+---
+
+- Ikke bruk **bold** i overskriftene. Å sette det riktige nivået på overskriften (vha. «hash-marks») vil sørge for at overskriften blir riktig formatert. Dette er en av de store fordelene med å skrive strukturerte dokumenter.
+- Jeg har endret til norske anførselstegn, en av mine mange kjepphester ;-)
+- Foreslår at du bruker *italic* for å utheve begrep og titler istedenfor anførselstegn.
+- Har rettet noen skrivefeil og forslått noen mindre endringer i formuleringer.
+- Et flott lite paper. Du har forstått forskjellen på disse viktige begrepene. Bruker litteraturen godt og skifter fint mellom *in-text* og *end-of-sentence* sitering.
+- Gode *commit messages* som viser utviklingen i arbeidet. Forsett slik!
+- Godkjent.
